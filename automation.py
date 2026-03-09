@@ -2,6 +2,7 @@ import pandas as pd
 import sys
 import os
 
+# python calculate.py jury1.csv jury2.csv jury3.csv
 
 
 def main():
