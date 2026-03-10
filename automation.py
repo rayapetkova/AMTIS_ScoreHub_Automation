@@ -37,7 +37,7 @@ def main():
     merged = merged_df.reset_index()
 
     merged.to_excel("final_ranking.xlsx", index=False)
-    print("Готово! Създаден е final_ranking.xlsx")
+    print("✅️Създаден е final_ranking.xlsx")
 
 
 if __name__ == "__main__":
